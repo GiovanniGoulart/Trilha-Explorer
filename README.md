@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+- [Visite o projeto on line](https://giovannigoulart.github.io/Trilha-Explorer/)
 
 - [Acesse o projeto finalizado, online]
 ## 🔖 Layout
